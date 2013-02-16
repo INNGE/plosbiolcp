@@ -38,15 +38,19 @@ INNGE combines the reach of electronic communication tools with the organization
 
 ## Functions that global early-career networks could contribute
 *General and specific*
+
 Once the backbone has been established the network can begin to perform the functions that were the main incentives behind the establishment. The functions can vary greatly depending on the specific of the network, but some core functions are likely to be useful to any discipline. Early-career groups often spend most of their energy on securing funds and rights for their own demographics. INNGE believes that the key to engage early-career scientists is to prioritize topics that will shape our careers in the future. Topics such as open-science, education reform, the ecological crisis and use of new technology. We call this combined focus Next-Generation Ecology.
 
 ###Knowledge-sharing to spur local initiatives 
 *General*
-Tenet: Many societies have the ambition of establishing student, post-doc or other early-career communities, most, however, falter due to a lack of critical mass to ensure continuity. Global networks serve as knowledge and skills hubs to empower local initiatives.
+
+**Tenet:** Many societies have the ambition of establishing student, post-doc or other early-career communities, most, however, falter due to a lack of critical mass to ensure continuity. Global networks serve as knowledge and skills hubs to empower local initiatives.
+
 *Specific*
 In the suggested community page, we argue that INNGE serves as an example of how early-career scientists through a global network can minimize challenges to local initiatives such as lack of experience, peer feedback and resources. 
 
 ### Hub and distributor for online debate
+
 *General*
 Blogs come and go, but a stable distributor of blogs is a service that can easily be provided by global networks once an initial critical mass of suppliers and followers has been established.
 *Specific*
