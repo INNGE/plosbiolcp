@@ -33,8 +33,7 @@ How does one then go about building a global network of early-career scientists?
 Throughout its history, learned society activities in ecology have been concentrated at the national level. A hundred years after the establishment of the first national ecological society, INNGE’s aim is to create a platform for early-career ecologists to interact on a global scale. Through our global focus on early-career scientists, we aim not to substitute for membership of learned ecological and evolutionary societies, but instead to integrate and empower young researchers engaged in a diverse array of initiatives. 
 INNGE is an example of how a long expressed goal from the major organizations in a field came to be, not through a top-down process, but by bottom-up action and trust that students and post-docs would take responsibility and carry-out their own version of that shared vision.  After nearly two years spend mostly on building an organizational backbone, the network is now at a size, diversity and that it can start to launch activities that were part of the longer term vision from the onset.
 
-##A flexible but robust backbone to ensure longevity
-###Electronic reach and organizational stability
+##A flexible but robust backbone to ensure longevity *outline*
 INNGE combines the reach of electronic communication tools with the organizational support of major societies, taking the best from online science initiatives and early-career initiatives of academic societies. 
 -	Describe working group and Nodes setup (one paragraph)
 -	Challenges: Legitimacy, implementation of bylaws and organization democracy (couple of sentences or a paragraph)
@@ -53,7 +52,7 @@ Once the backbone has been established the network can begin to perform the func
 
 In the suggested community page, we argue that INNGE serves as an example of how early-career scientists through a global network can minimize challenges to local initiatives such as lack of experience, peer feedback and resources. 
 
-### Hub and distributor for online debate
+### Hub and distributor of online debate
 
 *General*
 
