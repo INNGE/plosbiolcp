@@ -24,9 +24,12 @@ We focus on three aspects:
 ##Building the network
 ###History of ecology
 *General*
+
 Maybe the deciding factor in explaining the lack of global early-career networks is the inexperience there is in experimenting with such network structures and the therefore large uncertainty and amount work tied to initiating such a project.
 How does one then go about building a global network of early-career scientists? The establishment ideally requires several events to align at the same point in time. While it helps if there is an expressed desire from the top of larger organizations, the step itself likely has to be taken by early-career scientists representing a broad range of stakeholders and with the desire to work for the establishment for a sustained period.
+
 *Specific*
+
 Throughout its history, learned society activities in ecology have been concentrated at the national level. A hundred years after the establishment of the first national ecological society, INNGE’s aim is to create a platform for early-career ecologists to interact on a global scale. Through our global focus on early-career scientists, we aim not to substitute for membership of learned ecological and evolutionary societies, but instead to integrate and empower young researchers engaged in a diverse array of initiatives. 
 INNGE is an example of how a long expressed goal from the major organizations in a field came to be, not through a top-down process, but by bottom-up action and trust that students and post-docs would take responsibility and carry-out their own version of that shared vision.  After nearly two years spend mostly on building an organizational backbone, the network is now at a size, diversity and that it can start to launch activities that were part of the longer term vision from the onset.
 
@@ -47,25 +50,36 @@ Once the backbone has been established the network can begin to perform the func
 **Tenet:** Many societies have the ambition of establishing student, post-doc or other early-career communities, most, however, falter due to a lack of critical mass to ensure continuity. Global networks serve as knowledge and skills hubs to empower local initiatives.
 
 *Specific*
+
 In the suggested community page, we argue that INNGE serves as an example of how early-career scientists through a global network can minimize challenges to local initiatives such as lack of experience, peer feedback and resources. 
 
 ### Hub and distributor for online debate
 
 *General*
+
 Blogs come and go, but a stable distributor of blogs is a service that can easily be provided by global networks once an initial critical mass of suppliers and followers has been established.
+
 *Specific*
+
 The launch of an open ecology blog aggregator (EcoBloggers) as well as a special section of our blog that features solicited thought provoking Next-Generation Point-of-View’s. 
 
 ### Surveying the community
+
 *General*
+
 Through the distributed network, where groups take advantage of local communication for a, coherent surveys of the community can be achieved.
+
 *Specific*
+
 A questionnaire showing consistent dissatisfaction with mathematical skills and training between North American and European ecologists. The survey with about 1000 participants is in preparation for a peer-reviewed journal. 
 
 ### Leading/spurring cross-disciplinary interactions
 *General*
+
 **Claim:** Younger generations might be the most obvious agents of change in spurring increased interdisciplinary interactions. This is because younger generations, despite more inexperienced are less locked in to career trajectories and have less to loose in terms of image by talking to people from other discipline. That said, no change will happen without leading figures encouraging, funding and guiding new interdisciplinary interactions.
+
 *Specific*
+
 We here support our claim with two concrete initiatives that INNGE recently has engaged in to promote interdisciplinary change in ecology. An emerging effort to improve the opportunities and voice of early-career ecologists in sustainability. This includes a collaboration with the International Council for Science’ (ICSU) Future Earth, and a partnership with the Institute for New Economic Thinking -Young Scholars Initiative (INET YSI) 
 
 ###International meetings
