@@ -22,7 +22,7 @@ We focus on three aspects:
 
 
 ##Building the network
-###History of ecology
+
 *General*
 
 Maybe the deciding factor in explaining the lack of global early-career networks is the inexperience there is in experimenting with such network structures and the therefore large uncertainty and amount work tied to initiating such a project.
@@ -83,9 +83,13 @@ A questionnaire showing consistent dissatisfaction with mathematical skills and 
 We here support our claim with two concrete initiatives that INNGE recently has engaged in to promote interdisciplinary change in ecology. An emerging effort to improve the opportunities and voice of early-career ecologists in sustainability. This includes a collaboration with the International Council for Science’ (ICSU) Future Earth, and a partnership with the Institute for New Economic Thinking -Young Scholars Initiative (INET YSI) 
 
 ###International meetings
+
 *General*
+
 Maybe the least novel function of an early-career network is the function performed by most societies – with regular intervals to bring people together physically to interact and share the latest progress within their field. 
+
 *Specific*
+
 INNGE will use the quadrennial meeting of INTECOL to organize global gatherings of early-career ecologists. The first gathering of early-career ecologists from around the world in London at INTECOL 2013.
 
 
